@@ -1,0 +1,6 @@
+
+Please make this changes: 
+
+Make MyFormView extends GetView instead of StatefulWidget
+Move disposable resources to controller
+

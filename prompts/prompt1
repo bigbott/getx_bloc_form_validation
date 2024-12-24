@@ -1,0 +1,4 @@
+There is a form validation app in bloc directory. 
+We will rewrite it using GetX
+I already copied files from models folder, they remain the same. 
+Please, rewrite other files
